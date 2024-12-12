@@ -2,5 +2,7 @@ The game tried to replicate the game we are used to play on old Nokia device. Th
 To run it:
 
 1. Clone the repo
-2. Install dependecies from requirement.txt file
-3. run Game.py
+2. Install dependecies from requirements.txt file
+3. run Game.py file
+
+
