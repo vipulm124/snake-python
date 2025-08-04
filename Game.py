@@ -26,7 +26,6 @@ class Game:
 
         
         pygame.display.set_caption("Snakes")
-        # self._create_snake()
         self.bg_color = self.settings.bg_color
     
 

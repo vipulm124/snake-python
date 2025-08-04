@@ -5,7 +5,6 @@ class Scoreboard:
         self.screen = game.screen
         self.screen_rect = self.screen.get_rect()
         self.settings = game.settings
-        # self.snake_head = game.snake_head
 
         self.text_color = self.settings.scoreboard_color
         self.font = pygame.font.SysFont(None, 48)

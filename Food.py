@@ -4,7 +4,6 @@ class Food:
     def __init__(self, game):
         super().__init__()
         self.settings = game.settings
-        # self.snake_default_segments = self.settings.snake_default_segments
         self.screen = game.screen
 
     
